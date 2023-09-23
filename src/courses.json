@@ -1,0 +1,14 @@
+{
+  "airtribe": [
+    {
+      "courseId": 1,
+      "courseName": "backend engineering",
+      "cohort": 1,
+      "college": "ait tribe",
+      "semester": 3,
+      "instructor": "Ram",
+      "averageRating": 9.232,
+      "studentVoted": 4
+    }
+  ]
+}
